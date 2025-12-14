@@ -49,4 +49,4 @@ dmypy.json
 .vscode/
 
 # Project specific
-*.pkl
+# *.pkl (Commented out to allow uploading models)
